@@ -9,11 +9,11 @@ Zahtevamo lahko:
  * /help za pomoč.
  * (/ vrne 404)
  
- #Tehnologije:
+ ## Tehnologije:
   * nodejs
     * MATH
     * fs
-  *Express
+  * Express
 
 ## Viri seznamov citatov:
 
