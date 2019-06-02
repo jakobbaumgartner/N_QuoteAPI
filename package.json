@@ -1,0 +1,25 @@
+{
+  "name": "n_quoteapi",
+  "version": "1.0.0",
+  "description": "Quotes returning API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakobbaumgartner/N_QuoteAPI.git"
+  },
+  "author": "Jakob Baumgartner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakobbaumgartner/N_QuoteAPI/issues"
+  },
+  "homepage": "https://github.com/jakobbaumgartner/N_QuoteAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
