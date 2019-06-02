@@ -8,6 +8,12 @@ Zahtevamo lahko:
  * /rickandmorty - za citate iz Rick and Morty
  * /help za pomoč.
  * (/ vrne 404)
+ 
+ #Tehnologije:
+  * nodejs
+    * MATH
+    * fs
+  *Express
 
 ## Viri seznamov citatov:
 
