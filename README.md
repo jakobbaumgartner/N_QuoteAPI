@@ -1,10 +1,16 @@
 # N_QuoteAPI
 
-Ta program nam na podlagi http requesta vrne quote iz enega od treh različnih seznamov. Quote je generirana random s pomočjo modula Math in vrnjena preko http. 
+Ta program nam na podlagi http requesta vrne citat iz enega od treh različnih seznamov. Citat je generiran random s pomočjo modula Math in vrnjen preko http. 
 
 Zahtevamo lahko:
- * /great - za quote znanih ljudi
- * /tv - za quote iz tv serij
- * /rickandmorty - za quote iz Rick and Morty
+ * /great - za citate znanih ljudi
+ * /tv - za citate iz tv serij
+ * /rickandmorty - za citate iz Rick and Morty
  * /help za pomoč.
  * (/ vrne 404)
+
+## Viri seznamov citatov:
+
+* https://github.com/sys99/quotes
+* https://github.com/msramalho/json-tv-quotes
+* https://github.com/AndrewReitz/rick-and-morty-quotes-json
