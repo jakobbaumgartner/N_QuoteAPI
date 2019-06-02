@@ -1,6 +1,6 @@
 # N_QuoteAPI
 
-Ta program nam na podlagi http requesta vrne citat iz enega od treh različnih seznamov. Citat je generiran random s pomočjo modula Math in vrnjen preko http. 
+Ta program nam na podlagi http requesta vrne citat iz enega od treh različnih seznamov. Citat je generiran random s pomočjo modula Math in vrnjen preko http. Vrne nam tudi status code.
 
 Zahtevamo lahko:
  * /great - za citate znanih ljudi
